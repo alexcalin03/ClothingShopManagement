@@ -1,0 +1,7 @@
+Inventory for hoodies:
+
+Inventory for hats:
+Item 1: Size - Small, Color - Blue, Price - $14.99
+
+Inventory for pants:
+
